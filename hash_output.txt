@@ -1,2 +1,2 @@
-Generated 4-digit decimal hash: 8866
-Generated 4-digit hexadecimal hash: 22a2
+4-digit decimal hash: 8866
+4-digit hexadecimal hash: 22a2
